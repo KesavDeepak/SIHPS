@@ -1,4 +1,4 @@
-![image](https://github.com/KesavDeepak/SIHPS/assets/139336019/1fc93c27-0972-4855-9f9d-8f74c61bb54b)# Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date:
 ## Register Number: 212223230104
 ## Name: Kesav Deepak Sridharan
@@ -18,7 +18,8 @@ Introducing EcoRecycle Finder, your go-to solution for responsible e-waste dispo
 
 
 ## Use Cases
-![329216595-121b32d6-c98d-483a-a942-36dc9b23112b](https://github.com/KesavDeepak/SIHPS/assets/139336019/b7fd4b31-79b5-4673-bf8c-4ec7b874013c)
+![image](https://github.com/KesavDeepak/SIHPS/assets/139336019/11132188-08cb-41c2-ba1c-d4fa50a58f8f)
+
 
 
 ## Technology Stack
